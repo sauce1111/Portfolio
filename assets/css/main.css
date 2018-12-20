@@ -3971,3 +3971,13 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+#profile_img{
+    display: inline-block;
+}
+
+#profile_tbl{
+    width: 72%;
+    height: 325px;
+    margin-left: 2%;
+    display: inline-block;
+}
