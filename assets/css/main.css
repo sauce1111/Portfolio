@@ -3981,3 +3981,10 @@ input, select, textarea {
     margin-left: 2%;
     display: inline-block;
 }
+
+#sec_two_img{
+    width: 720px;
+    height: 168px;
+    border-radius: 20px;
+    margin-bottom: 20px;    
+}
