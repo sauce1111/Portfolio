@@ -2437,7 +2437,7 @@ input, select, textarea {
 		input[type="button"].fit,
 		button.fit,
 		.button.fit {
-			width: 100%;
+			width: 12%;
 		}
 
 		input[type="submit"].small,
@@ -3740,7 +3740,7 @@ input, select, textarea {
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			width: 100%;
 		}
 
 			#cta .inner header p {
@@ -3983,8 +3983,8 @@ input, select, textarea {
 }
 
 #sec_two_img{
-    width: 720px;
-    height: 168px;
+    width: 780px;
+    height: 180px;
     border-radius: 20px;
     margin-bottom: 20px;    
 }
